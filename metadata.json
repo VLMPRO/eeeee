@@ -1,0 +1,6 @@
+{
+  "name": "VLM PRO TV",
+  "description": "A responsive TV streaming application featuring live sports and diverse channels parsed dynamically from an M3U playlist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
